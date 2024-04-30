@@ -2536,12 +2536,12 @@ a {
 
 ul.exp-points {
   padding-left: 16px;
+  padding-right: 16px;
   letter-spacing: -.12px;
   font-size: 12px;
   font-weight: normal;
   font-style: normal;
   margin-bottom: 0;
-  width: 560px;
 }
 
 ul.exp-points li {
@@ -2859,12 +2859,6 @@ ul.exp-points li::marker {
 
   .experience-block-wrapper {
     padding-left: 24px;
-  }
-
-  .main-info-and-date {
-    grid-column-gap: 16px;
-    grid-row-gap: 16px;
-    flex-direction: column;
   }
 
   .experience-item {
